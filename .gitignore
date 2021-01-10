@@ -2,3 +2,5 @@
 _autosave*
 *-cache.lib
 *-cache
+*.csv
+*.xml

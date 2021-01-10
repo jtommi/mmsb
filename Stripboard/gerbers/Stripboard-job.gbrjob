@@ -7,20 +7,20 @@
       "Application": "Pcbnew",
       "Version":     "(5.1.9)-1"
     },
-    "CreationDate":  "2021-01-10T17:19:38+01:00"
+    "CreationDate":  "2021-01-10T17:22:18+01:00"
   },
   "GeneralSpecs":
   {
     "ProjectId":
     {
-      "Name": "AS3340",
-      "GUID": "41533333-3430-42e6-9b69-6361645f7063",
+      "Name": "Stripboard",
+      "GUID": "53747269-7062-46f6-9172-642e6b696361",
       "Revision": "rev?"
     },
     "Size":
     {
-      "X": 88.442,
-      "Y": 55.930
+      "X": 101.650,
+      "Y": 101.650
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
@@ -32,55 +32,53 @@
       "PadToPad":  0.200,
       "PadToTrack":  0.200,
       "TrackToTrack":  0.200,
-      "MinLineWidth":  0.500,
-      "TrackToRegion":  0.508,
-      "RegionToRegion":  0.508
+      "MinLineWidth":  0.500
     }
   ],
   "FilesAttributes":
   [
     {
-      "Path":  "AS3340-F_Cu.gbr",
+      "Path":  "Stripboard-F_Cu.gbr",
       "FileFunction":  "Copper,L1,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "AS3340-B_Cu.gbr",
+      "Path":  "Stripboard-B_Cu.gbr",
       "FileFunction":  "Copper,L2,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "AS3340-F_Paste.gbr",
+      "Path":  "Stripboard-F_Paste.gbr",
       "FileFunction":  "SolderPaste,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "AS3340-B_Paste.gbr",
+      "Path":  "Stripboard-B_Paste.gbr",
       "FileFunction":  "SolderPaste,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "AS3340-F_SilkS.gbr",
+      "Path":  "Stripboard-F_SilkS.gbr",
       "FileFunction":  "Legend,Top",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "AS3340-B_SilkS.gbr",
+      "Path":  "Stripboard-B_SilkS.gbr",
       "FileFunction":  "Legend,Bot",
       "FilePolarity":  "Positive"
     },
     {
-      "Path":  "AS3340-F_Mask.gbr",
+      "Path":  "Stripboard-F_Mask.gbr",
       "FileFunction":  "SolderMask,Top",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "AS3340-B_Mask.gbr",
+      "Path":  "Stripboard-B_Mask.gbr",
       "FileFunction":  "SolderMask,Bot",
       "FilePolarity":  "Negative"
     },
     {
-      "Path":  "AS3340-Edge_Cuts.gbr",
+      "Path":  "Stripboard-Edge_Cuts.gbr",
       "FileFunction":  "Profile",
       "FilePolarity":  "Positive"
     }
